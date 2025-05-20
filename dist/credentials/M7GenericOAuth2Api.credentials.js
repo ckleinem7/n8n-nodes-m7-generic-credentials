@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.m7GenericOAuth2Api = void 0;
-class m7GenericOAuth2Api {
+exports.M7GenericOAuth2Api = void 0;
+class M7GenericOAuth2Api {
     constructor() {
         this.name = 'm7GenericOAuth2Api';
         this.displayName = 'M7 Generic OAuth2 API';
@@ -78,5 +78,5 @@ class m7GenericOAuth2Api {
         return { sessionToken: access_token };
     }
 }
-exports.m7GenericOAuth2Api = m7GenericOAuth2Api;
+exports.M7GenericOAuth2Api = M7GenericOAuth2Api;
 //# sourceMappingURL=M7GenericOAuth2Api.credentials.js.map
