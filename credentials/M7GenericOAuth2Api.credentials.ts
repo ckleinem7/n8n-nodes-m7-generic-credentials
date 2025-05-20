@@ -6,7 +6,7 @@ import type {
 	INodeProperties
 } from 'n8n-workflow';
 
-export class m7GenericOAuth2Api implements ICredentialType {
+export class M7GenericOAuth2Api implements ICredentialType {
 	name = 'm7GenericOAuth2Api';
 	displayName = 'M7 Generic OAuth2 API';
 
